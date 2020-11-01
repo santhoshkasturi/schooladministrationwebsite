@@ -1,0 +1,48 @@
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .container #text1{
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 98px;
+}
+  .container #text2{
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 140px;
+}
+.container #text3{
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 140px;
+}
+.container #text4{
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 98px;
+}
+.container #text5{
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 110px;
+}
+.container #text6{
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 140px;
+}
+td{
+    padding-bottom: 40px;
+}
