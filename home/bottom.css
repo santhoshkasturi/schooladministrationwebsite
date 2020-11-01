@@ -1,0 +1,36 @@
+.bottom{
+    background-color: #1D527B;
+    height: 20px;
+    padding-top: 100px;
+    position: relative;
+    top: 1780px;
+    left: auto;
+}
+.bottom #bottom_logo{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.bottom #bottom_sub{
+    color: #CA5C4A;
+    font-size: 40px;
+    position: absolute;
+    top: 0px;
+    left: 600px;
+}
+.bottom #bottom_copyrights{
+    color: white;
+    position: absolute;
+    top: 70px;
+    left: 630px;
+}
+.bottom #bottom_contact{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 0px;
+    left: 1300px;
+}
+.bottom #bottom_contact:hover{
+    color: #CA5C4A;
+}
