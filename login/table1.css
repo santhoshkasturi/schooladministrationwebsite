@@ -1,0 +1,111 @@
+table,tr,td{
+    border: solid 1px black;
+    border-collapse: collapse;
+    
+}
+table{
+    width: 700px;
+    
+}
+.tables{
+    
+    display: inline;   
+}
+th{
+    align-content: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    padding: 20px;
+    
+}
+th h1,h4{
+    display: inline;
+}
+th h1{
+    color: #E0EFE3;
+}
+th h4{
+    color: #E3D024;
+}
+.title,.fee,.complaints_title,.announcements_title,.leave_title,.ideahub_title,.pendingfees_title{
+    background-color: #094818;
+}
+.subtitle,.fee_sub{
+    background-color: #FF770E;
+    color: #E0EFE3;
+}
+.details{
+    padding: 20px;
+    font-weight: 300;
+}
+tr{
+    background-color: #259BCD;
+}
+table a{
+    text-decoration: none;
+}
+
+.tables #attendees{
+    float: left;
+    padding: 20px;
+}
+body{
+    overflow-x: hidden;
+}
+.tables #feepayments{
+    padding: 20px;
+    float: right;
+}
+.tables #complaints{
+    width: 500px;
+    
+    float: right;
+    position: absolute;
+    top: 450px;
+    left: 760px;
+}
+.complaints_data{
+    padding: 0px;
+}
+.tables #announcements{
+    float: left;
+    position: absolute;
+    top: 600px;
+    left: auto;
+}
+.announcements_details{
+    padding: 50px;
+    font-weight: 300;
+}
+.tables #leave{
+    float: right;
+    position: absolute;
+    top: 860px;
+    left: 760px;
+}
+.leave_details{
+   padding: 20px;
+    font-weight: bold;
+}
+.tables #ideahub{
+    position: absolute;
+    top: 860px;
+    left: 1090px;
+}
+.ideahub_details{
+    padding: 60px;
+}
+.tables #pendingfees{
+    position: absolute;
+    top: 950px;
+    left: auto;
+}
+.pendingfees_details{
+    padding: 15px;
+}
+
+.gallery #gallerybox{
+    position: absolute;
+    top:1270px;
+    left: auto;
+}
